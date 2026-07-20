@@ -1,4 +1,4 @@
-# Adaptive & Iterative Medical RAG
+# Clinical Evidence RAG
 
 > An accuracy-first, evidence-grounded medical drug information assistant built with adaptive and iterative Retrieval-Augmented Generation (RAG).
 
