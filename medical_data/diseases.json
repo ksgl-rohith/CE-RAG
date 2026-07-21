@@ -1,0 +1,65 @@
+{
+  "asthma": {
+    "guideline": "GINA_Pocket_2015-guidelines.pdf",
+    "drugs": [
+      "Budesonide",
+      "Fluticasone",
+      "Formoterol",
+      "Montelukast",
+      "Prednisolone",
+      "Salbutamol"
+    ]
+  },
+  "copd": {
+    "guideline": "copd-guidelines.pdf",
+    "drugs": [
+      "Amoxicillin",
+      "Budesonide",
+      "Formoterol",
+      "Ipratropium",
+      "Prednisolone",
+      "Salbutamol",
+      "Tiotropium"
+    ]
+  },
+  "diabetes": {
+    "guideline": "diabetes-mellitus-guidelines.pdf",
+    "drugs": [
+      "Acarbose",
+      "Glimepiride",
+      "Glipizide",
+      "Insulin Lispro",
+      "Insulins",
+      "Metformin",
+      "Pioglitazone"
+    ]
+  },
+  "hypertension": {
+    "guideline": "hypertension-guidlines.pdf",
+    "drugs": [
+      "Amlodipine",
+      "Atenolol",
+      "Chlorthalidone",
+      "Enalapril",
+      "Furosemide",
+      "Hydrochlorothiazide",
+      "Lisinopril",
+      "Losartan",
+      "Metoprolol",
+      "Nifedipine",
+      "Ramipril",
+      "Telmisartan",
+      "Valsartan"
+    ]
+  },
+  "tuberculosis": {
+    "guideline": "TB-guidelines.pdf",
+    "drugs": [
+      "Ethambutol",
+      "ISONIAZID",
+      "Pyrazinamide",
+      "Rifampicin",
+      "Streptomycin"
+    ]
+  }
+}
